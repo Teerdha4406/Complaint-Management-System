@@ -3,53 +3,63 @@
 UDC Complaint Management System is a web application designed for universities to handle disciplinary complaints in a structured, transparent, and secure manner. The system allows users to register, submit complaints, and track their status. Admins can manage and assign complaints, while committee members investigate and resolve them. The application ensures efficiency, accountability, and confidentiality throughout the complaint lifecycle.
 
 ## Table of Contents
-
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Contribution](#contribution)
 - [License](#license)
 
 ## Features
-
-- User registration and login functionality  
-- Submit and track disciplinary complaints  
-- Automatic categorization and routing to relevant authorities  
-- Admin panel to view, assign, and manage complaints  
-- Committee member panel to investigate and resolve complaints  
-- Real-time updates and complaint status tracking  
-- Role-based access control  
-- Confidential and secure data management  
-- Complaint analytics and reporting for policy improvement  
+- Secure user registration and login
+- Complaint submission with detailed form
+- Role-based access for Admin and Committee Members
+- Complaint assignment and investigation workflows
+- Real-time status tracking
+- Reporting and analytics
+- Responsive and intuitive UI
 
 ## Technologies Used
-
-- HTML  
-- CSS  
-- JavaScript  
-- Node.js  
-- Express.js  
-- MongoDB  
+This project is built using the following technologies:
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- shadcn-ui
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
 
 ## Getting Started
-
-To get a local copy of the project up and running, follow these simple steps:
+To get a local copy of the project up and running, follow these simple steps: 
 
 ### Prerequisites
 
-- Node.js  
-- npm (Node Package Manager)  
-- MongoDB (for local development)  
+- Node.js
+- npm (Node Package Manager)
 
 ### Installation
 
-1. Download the ZIP file and extract it  
-2. Open the project folder in Visual Studio Code  
-3. Open terminal and run the following commands:
+# Clone the repository
+git clone <YOUR_GIT_URL>
 
-```bash
+# Navigate into the project directory
+cd <YOUR_PROJECT_NAME>
+
+# Install the dependencies
 npm install
-npm start
+
+# Start the development server
 npm run dev
+
+### Contribution
+This is a, Inter Department Project(IDP) done by our Batch-04 ,during our B.Tech, 3rd year 2nd semister.
+- 221FA04105  S.RENUKA                                                                          
+- 221FA04107  N M N C SAI LAKSHMI
+- 221FA04406  A TEERDHA GANESH                                                                 
+- 221FA04565  G MANISHA
+
+### License
+Anyone can freely use this repository for educational purpose.
+
