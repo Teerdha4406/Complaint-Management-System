@@ -40,7 +40,7 @@ To get a local copy of the project up and running, follow these simple steps:
 - npm (Node Package Manager)
 
 ### Installation
-
+```
 # Clone the repository
 git clone <YOUR_GIT_URL>
 
@@ -52,6 +52,7 @@ npm install
 
 # Start the development server
 npm run dev
+```
 
 ### Contribution
 This is a, Inter Department Project(IDP) done by our Batch-04 ,during our B.Tech, 3rd year 2nd semister.
