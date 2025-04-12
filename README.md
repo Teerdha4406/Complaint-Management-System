@@ -55,7 +55,7 @@ npm run dev
 ```
 
 ### Contribution
-This is a, Inter Department Project(IDP) done by our Batch-04 ,during our B.Tech, 3rd year 2nd semister.
+This is an, Inter Department Project(IDP) done by our Batch-04 ,during our B.Tech, 3rd year 2nd semister.
 - 221FA04105  S.RENUKA                                                                          
 - 221FA04107  N M N C SAI LAKSHMI
 - 221FA04406  A TEERDHA GANESH                                                                 
