@@ -1,69 +1,55 @@
-# Welcome to your Lovable project
+# UDC Complaint Management System
 
-## Project info
+UDC Complaint Management System is a web application designed for universities to handle disciplinary complaints in a structured, transparent, and secure manner. The system allows users to register, submit complaints, and track their status. Admins can manage and assign complaints, while committee members investigate and resolve them. The application ensures efficiency, accountability, and confidentiality throughout the complaint lifecycle.
 
-**URL**: https://lovable.dev/projects/985c7584-920d-46ee-83fd-7c80b6974532
+## Table of Contents
 
-## How can I edit this code?
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Contribution](#contribution)
+- [License](#license)
 
-There are several ways of editing your application.
+## Features
 
-**Use Lovable**
+- User registration and login functionality  
+- Submit and track disciplinary complaints  
+- Automatic categorization and routing to relevant authorities  
+- Admin panel to view, assign, and manage complaints  
+- Committee member panel to investigate and resolve complaints  
+- Real-time updates and complaint status tracking  
+- Role-based access control  
+- Confidential and secure data management  
+- Complaint analytics and reporting for policy improvement  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/985c7584-920d-46ee-83fd-7c80b6974532) and start prompting.
+## Technologies Used
 
-Changes made via Lovable will be committed automatically to this repo.
+- HTML  
+- CSS  
+- JavaScript  
+- Node.js  
+- Express.js  
+- MongoDB  
 
-**Use your preferred IDE**
+## Getting Started
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+To get a local copy of the project up and running, follow these simple steps:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Prerequisites
 
-Follow these steps:
+- Node.js  
+- npm (Node Package Manager)  
+- MongoDB (for local development)  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Installation
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+1. Download the ZIP file and extract it  
+2. Open the project folder in Visual Studio Code  
+3. Open terminal and run the following commands:
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```bash
+npm install
+npm start
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/985c7584-920d-46ee-83fd-7c80b6974532) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
